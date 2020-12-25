@@ -34,8 +34,8 @@ const routes = [
     component: ShoppingCart,
   },
   {
-    path: "/succes",
-    name: "succes",
+    path: "/success",
+    name: "success",
     component: Succes,
   },
 ];

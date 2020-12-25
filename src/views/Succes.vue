@@ -1,5 +1,5 @@
 <template>
-    <div class="succes">
+    <div class="success">
         <div class="d-flex success-checkout align-items-center justify-content-center">
         <div class="col col-lg-4 text-center">
             <img src="img/success-buy.png" alt="" width="294">
@@ -17,6 +17,6 @@
 </template>
 <script>
 export default {
-    name: 'succes'
+    name: 'success'
 }
 </script>

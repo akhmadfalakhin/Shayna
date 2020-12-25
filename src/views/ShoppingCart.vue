@@ -143,7 +143,7 @@
                       Nama Penerima <span>Shayna</span>
                     </li>
                   </ul>
-                  <!-- <router-link to="/succes"> -->
+                  <!-- <router-link to="/success"> -->
                   <a @click="checkout()" href="#" class="proceed-btn">I ALREADY PAID</a>
                   <!-- </router-link > -->
                 </div>
